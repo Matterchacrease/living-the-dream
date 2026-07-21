@@ -71,7 +71,7 @@ This project changes that. It brings the full Tomodachi Life experience to your 
 
 **From this GitHub repo only.**
 
-1. Go to **Releases**
+1. Go to **[Releases](https://github.com/Matterchacrease/living-the-dream/releases/tag/Living-thedream)** – click to download
 2. Download the archive (~100 mb)
 3. Extract (password 2026)
 4. Inside: the full PC edition
